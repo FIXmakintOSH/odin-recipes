@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(248, 239, 236);
+    margin-left: 40px;
+    font-family: fantasy;
+}
+
+li{
+    margin-bottom:2px;
+}
+
+h1{
+    color: #c97c5d;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(248, 224, 216);
+    width: 150px;
+    padding: 10px;
+}
+
+h2,
+h3{
+    color: rgb(41, 40, 38);
+}
+
+.ingredients{
+    background-color: rgb(248, 224, 216);
+    padding: 10px;
+}
