@@ -1,7 +1,8 @@
-body{
+ body{
     background-color: rgb(248, 239, 236);
     margin-left: 40px;
     font-family: fantasy;
+
 }
 
 li{
@@ -9,7 +10,7 @@ li{
 }
 
 h1{
-    color: #c97c5d;
+    color: #a85332;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(248, 224, 216);
     width: 150px;
@@ -21,7 +22,22 @@ h3{
     color: rgb(41, 40, 38);
 }
 
+.ingredients,
+.description,
+.steps{
+    padding: 8px 12px;
+    margin: 10px 0;
+}
+
 .ingredients{
     background-color: rgb(248, 224, 216);
-    padding: 10px;
+
+}
+
+.description{
+    background-color: rgb(230, 183, 168);
+}
+
+.steps{
+    background-color: rgb(255, 232, 224);
 }
